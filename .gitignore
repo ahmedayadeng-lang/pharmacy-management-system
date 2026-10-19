@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.qodo/
+.vscode/
+.db2devextconfig.json
+*.rar
+
+# Runtime output (receipts, exported charts, user theme choice)
+printer/
+/*.png
+print_suppliers.txt
+config.json
+
+# Leftover files from another project / editor scratch files
+tempCodeRunnerFile.py
+player.py
+skeleton.py
+game_map.py
+settings.py
+audio_manager.py
