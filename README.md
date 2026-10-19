@@ -5,7 +5,9 @@ customers, sales orders, prescriptions and staff, backed by a **MySQL** database
 Built with **Python, Tkinter and ttkbootstrap** as a university database-systems project
 at Al-Khwarizmi College of Engineering, University of Baghdad.
 
-![Medicines inventory screen](docs/screenshots/medicines.jpg)
+![Home dashboard and order screen](docs/screenshots/home_and_orders.png)
+
+![Medicines, suppliers, customers and prescriptions modules](docs/screenshots/modules.png)
 
 ## Features
 
